@@ -1,2 +1,2 @@
-# CSharpBootcamp_July2023
+# C# Bootcamp July 2023
 Your instructors will share code with you here.
